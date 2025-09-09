@@ -46,16 +46,16 @@ The analysis examines travel from specific starting points (origins) to potentia
 
 ### Origins
 
-All origins are located within the NVTC region[^1]. By keeping origins consistent across all analyses, we can answer the central question: "How many jobs can a Northern Virginia resident reach on a specific day of the week, at a particular time, within a given travel time using transit?"
+All origins are located within the NVTC district[^1]. By keeping origins consistent across all analyses, we can answer the central question: "How many jobs can a Northern Virginia resident reach on a specific day of the week, at a particular time, within a given travel time using transit?"
 
 ### Destinations
 
-The destination area extends beyond the NVTC region to include the broader metropolitan area where Northern Virginia residents commonly work and access services. This expanded area includes:
+The destination area extends beyond the NVTC district to include the broader metropolitan area where Northern Virginia residents commonly work and access services. This expanded area includes:
 
-* The NVTC region[^1] (local destinations)
-* District of Columbia (major employment center)
+* The NVTC district
+* The District of Columbia (major employment center)
 * Montgomery and Prince George's Counties in Maryland (regional employment and services)
 
 This broader geographic scope recognizes that transit users often cross jurisdictional boundaries for work and other activities, making regional connectivity a key measure of transit effectiveness.
 
-[^1]: The NVTC region is defined as Arlington, Fairfax, and Loudoun counties and the cities of Alexandria, Fairfax, and Falls Church.
+[^1]: The NVTC district is defined as Arlington, Fairfax, and Loudoun counties and the cities of Alexandria, Fairfax, and Falls Church.

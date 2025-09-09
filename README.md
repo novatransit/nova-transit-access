@@ -7,7 +7,7 @@ As part of our NoVA Transit Dashboard refresh, the Northern Virginia Transportat
 
 ## Dashboard
 
-** [The dashboard is available here.](/)
+***[The dashboard is available here.](/)***
 
 ## Directory
 

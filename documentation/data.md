@@ -2,7 +2,7 @@
 title: Data Sources for Access to Opportunity Analysis
 authors: Jason Adle
 date: 2025-09-08
-modified: 2025-09-08
+modified: 2025-09-09
 ---
 As part of our NoVA Transit Dashboard refresh, NVTC sought out to redefine our access to transit and access to jobs methodology used in the dashboard. This document will cover the sources of our data.
 
