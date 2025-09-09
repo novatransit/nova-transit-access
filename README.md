@@ -7,7 +7,7 @@ As part of our NoVA Transit Dashboard refresh, the Northern Virginia Transportat
 
 ## Dashboard
 
-***[The dashboard is available here.](https://nvtc.maps.arcgis.com/apps/dashboards/3bda02cf9d8e4a39ae666dca202d8446)***
+***[The dashboard is available here - currently internal-only](https://nvtc.maps.arcgis.com/apps/dashboards/3bda02cf9d8e4a39ae666dca202d8446)***
 
 ## Directory
 
