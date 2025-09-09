@@ -1,6 +1,5 @@
 ---
 title: Data Sources for Access to Opportunity Analysis
-authors: Jason Adle
 date: 2025-09-08
 modified: 2025-09-09
 ---
@@ -73,7 +72,7 @@ Transit data is collected from multiple agencies to capture the complete transit
 * Virginia Railway Express (VRE)
 * Potomac-Rappahannock Transportation Commission/OmniRide
 
-We use the most recent General Transit Feed Specification (GTFS) static files for each agency. GTFS is a standardized format that includes transit schedules, stop locations, and route information. For Northern Virginia agencies, the majority of this data is provided through the [DRPT GTFS clearinghouse](https://drpt.virginia.gov/data/gtfs-feed-clearinghouse/), while the WMATA GTFS is pulled from the [WMATA Developer Portal](https://developer.wmata.com).
+We use the most recent General Transit Feed Specification (GTFS) static files for each agency. GTFS is a standardized format that includes transit schedules, stop locations, and route information. For Northern Virginia agencies, the majority of this data is available through the Virginia Department of Rail and Public Transportation [(DRPT) GTFS clearinghouse](https://drpt.virginia.gov/data/gtfs-feed-clearinghouse/), while the WMATA GTFS is pulled from the [WMATA Developer Portal](https://developer.wmata.com).
 
 ## Map data
 

@@ -1,6 +1,5 @@
 ---
 title: Analysis Tools and Configuration for Access to Opportunity Analysis
-authors: Jason Adle
 date: 2025-09-09
 modified: 2025-09-09
 ---
@@ -22,7 +21,7 @@ R5-based analyses of access to opportunity have been used by public institutions
 
 ### Other tools
 
-This analysis uses a number of other open-source tools within the R universe, namely those to work with geographic objects and 
+This analysis uses a number of other open-source tools within the R universe, namely those to work with geographic objects and data tables. Examples of these may be found in the [scripts](/scripts/) directory.
 
 ### Custom functions
 
@@ -74,7 +73,10 @@ We export this final geometry file with these additional fields which then becom
 
 ### Accessibility statistics
 
-Finally, we generate a variety of accessibility statistics based on the accessibility layer. These statistics are not based on the raw "reachable" numbers, but rather population weighted averages.
+Finally, we generate a variety of accessibility statistics based on the accessibility layer. These statistics are not based on the raw "reachable" numbers, but rather population weighted averages. By weighting these values based on population or another demographic value, we are able to more accurately assess how many opportunities each subgroup is able to access.
+
+We do two types of statistics - one for the entire region and one for each jurisdiction in the NVTC district.[^3]
 
 [^1] For more information on this approach see Conway, Matthew Wigginton, Andrew Byrd, and Marco van der Linden (2017). [“Evidence-Based Transit and Land Use Sketch Planning Using Interactive Accessibility Methods on Combined Schedule and Headway-Based Networks.”](http://trrjournalonline.trb.org/doi/abs/10.3141/2653-06)
-[^2] Not currently applicable for this analyis - however we do have the functionality to compare access based on different GTFS scenarios
+[^2] Not currently applicable for this analysis - however we do have the functionality to compare access based on different GTFS scenarios.
+[^3]: The NVTC district is defined as Arlington, Fairfax, and Loudoun counties and the cities of Alexandria, Fairfax, and Falls Church.

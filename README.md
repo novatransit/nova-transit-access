@@ -7,16 +7,18 @@ As part of our NoVA Transit Dashboard refresh, the Northern Virginia Transportat
 
 ## Dashboard
 
-***[The dashboard is available here.](/)***
+***[The dashboard is available here.](https://nvtc.maps.arcgis.com/apps/dashboards/3bda02cf9d8e4a39ae666dca202d8446)***
 
 ## Directory
 
-This repository is broken down into several subfolders:
+This repository is broken down into several sub-directories:
 
 * **[documentation](/documentation/)** - Detailed methodology documentation covering data sources and analysis parameters used in the access to opportunity analysis
 * **[data](/data/)** - Sample datasets used in the analysis
 * **[scripts](/scripts/)** - Analysis code and processing scripts
 * **[sample-outputs](/sample-outputs/)** - Example outputs and visualizations from the analysis
+
+We'll be filling up this repository as time goes on with more documentation.
 
 ## Disclaimers
 

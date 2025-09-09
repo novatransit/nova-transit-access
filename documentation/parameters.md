@@ -1,6 +1,5 @@
 ---
 title: Analysis Parameters for Access to Opportunity Analysis
-authors: Jason Adle
 date: 2025-09-08
 modified: 2025-09-08
 ---
@@ -17,6 +16,7 @@ We analyze three travel time limits: 30 minutes, 45 minutes, and 60 minutes. The
 * **30 minutes** - Local trips within immediate communities
 * **45 minutes** - Medium-distance trips to major employment centers  
 * **60 minutes** - Longer commutes that still represent reasonable transit travel times
+* **90 minutes** - Long-distance commutes from the farthest reaches of the region, often made using commuter bus services
 
 Together, these time limits cover the majority of feasible transit trips within the Northern Virginia region.
 
