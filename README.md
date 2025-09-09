@@ -22,13 +22,16 @@ This repository is broken down into several sub-directories:
 
 We'll be filling up this repository as time goes on with more documentation.
 
-## About accessibility measures
+## About access
+
+For an overview of access as it relates to the dashboard, have a look at the [Access Explained](/access-explained.md) page. 
 
 For more general about the methods used in this dashboard/project, we recommend reviewing some literature on measures of access, access to opportunity, and accessibility measures. In particular, we can recommend the following:
 
 * Jarrett Walker's explanation on access or ["the wall around your life"](https://humantransit.org/basics-access-or-the-wall-around-your-life)
 * The State Smart Transportation Initiative [Measuring Accessibility: Guidance for Practictioners](https://ssti.us/wp-content/uploads/sites/1303/2020/12/Measuring-Accessibility-Final.pdf)
 * For an overview of accessibility measures being deployed in the Virginia context to evaluate transportation projects, review Appendix C of the [SMART SCALE Technical Guide](https://smartscale.virginia.gov/media/smartscale/documents/508_R6_Technical-Guide_FINAL_FINAL_acc043024_PM.pdf)
+* For an in-depth look on access to opportunity methods, have a read at the *[Transport Access Manual: A Guide for Measuring Connection between People and Places](https://hdl.handle.net/2123/23733)* by Levinson and King.
 * A paper on the general methods used in analysis similar to that here by Conway, Matthew Wigginton, Andrew Byrd, and Marco van der Linden (2017). [“Evidence-Based Transit and Land Use Sketch Planning Using Interactive Accessibility Methods on Combined Schedule and Headway-Based Networks”](http://trrjournalonline.trb.org/doi/abs/10.3141/2653-06)
 
 ## Disclaimers
