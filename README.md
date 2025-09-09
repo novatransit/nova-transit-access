@@ -1,5 +1,6 @@
 ---
 ![GitHub License](https://img.shields.io/github/license/novatransit/nova-transit-access?style=flat-square)
+![Static Badge](https://img.shields.io/badge/powered_by-r5r-blue?style=flat-square&link=https%3A%2F%2Fipeagit.github.io%2Fr5r%2F)
 
 ---
 # nova-transit-access
