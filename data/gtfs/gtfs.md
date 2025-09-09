@@ -26,15 +26,23 @@ As noted in the footnote, WMATA requires an API key to download GTFS files or an
 
 These instructions are generally applicable for GTFS Schedule files that use a header to verify the presence of an API key.
 
+In `bash`:
+
 ```bash
+#!/bin/bash:
 cd Downloads
 curl -v -H "api_key: aaabbbcccdddeeefff12345671234567" https://api.wmata.com/gtfs/bus-gtfs-static.zip
 ```
 
+In `zsh`:
+
 ```zsh
+#!/usr/bin/env zsh
 cd Downloads
 curl -v -H "api_key: aaabbbcccdddeeefff12345671234567" https://api.wmata.com/gtfs/bus-gtfs-static.zip
 ```
+
+In PowerShell:
 
 ```pwsh
 Set-Location -Path C:\Users\MyUser\Downloads # PowerShell also accepts cd as an alias for Set-Location
