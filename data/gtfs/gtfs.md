@@ -50,4 +50,4 @@ $headers = @{'api_key' = 'aaabbbcccdddeeefff12345671234567'}
 Invoke-RestMethod -Uri "https://api.wmata.com/gtfs/bus-gtfs-static.zip" -Headers $headers -OutFile "bus-gtfs-static.zip"
 ```
 
-[^1] WMATA requires an API key to download GTFS Schedule files. You may get your own key from [https://developer.wmata.com/](https://developer.wmata.com/)
+[^1]: WMATA requires an API key to download GTFS Schedule files. You may get your own key from [https://developer.wmata.com/](https://developer.wmata.com/)

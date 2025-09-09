@@ -77,6 +77,6 @@ Finally, we generate a variety of accessibility statistics based on the accessib
 
 We do two types of statistics - one for the entire region and one for each jurisdiction in the NVTC district.[^3]
 
-[^1] For more information on this approach see Conway, Matthew Wigginton, Andrew Byrd, and Marco van der Linden (2017). [“Evidence-Based Transit and Land Use Sketch Planning Using Interactive Accessibility Methods on Combined Schedule and Headway-Based Networks.”](http://trrjournalonline.trb.org/doi/abs/10.3141/2653-06)
-[^2] Not currently applicable for this analysis - however we do have the functionality to compare access based on different GTFS scenarios.
+[^1]: For more information on this approach see Conway, Matthew Wigginton, Andrew Byrd, and Marco van der Linden (2017). [“Evidence-Based Transit and Land Use Sketch Planning Using Interactive Accessibility Methods on Combined Schedule and Headway-Based Networks.”](http://trrjournalonline.trb.org/doi/abs/10.3141/2653-06)
+[^2]: Not currently applicable for this analysis - however we do have the functionality to compare access based on different GTFS scenarios.
 [^3]: The NVTC district is defined as Arlington, Fairfax, and Loudoun counties and the cities of Alexandria, Fairfax, and Falls Church.
