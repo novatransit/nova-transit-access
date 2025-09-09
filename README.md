@@ -1,5 +1,6 @@
 ---
-![GitHub License](https://img.shields.io/github/license/novatransit/nova-transit-access)
+![GitHub License](https://img.shields.io/github/license/novatransit/nova-transit-access?style=flat-square)
+
 ---
 # nova-transit-access
 
