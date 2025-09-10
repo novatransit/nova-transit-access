@@ -11,13 +11,17 @@ Another way to think of access is, as explained by *Human Transit* author Jarret
 
 > Whoever you are, and wherever you are, there’s an area you could get to in an amount of time that’s available in your day. That limit defines a wall around your life.  Outside that wall are places you can’t work, places you can’t shop, schools you can’t attend, clubs you can’t belong to, people you can’t hang out with, and a whole world of things you can’t do.
 
+In short, access is your ability to get to places and the opportunities those places hold - which can include work, education, amenities, or any number of things.
+
 ## Why measure access?
 
-We measure access because it provides a clear way of understanding how transportation and transportation investments affect the way that we live, work and play. It also helps us understand how transportation is and isn't meeting our needs.
+We measure access because it provides a clear way of understanding how transportation and transportation investments affect the way that we live, work and play.
+
+It also helps us understand how transportation is and isn't meeting our needs - and doesn't aim to make predictions (like traditional modeling does).
 
 ## Why does access change?
 
-If you've come from the [NVTC Access Dashboard](https://nvtc.maps.arcgis.com/apps/dashboards/3bda02cf9d8e4a39ae666dca202d8446), you might be wondering about how each of the variables on the sidebar affect access. In this section, we'll try to explain how and why each variable would affect your access.
+If you've come from the [Access Dashboard](https://nvtc.maps.arcgis.com/apps/dashboards/3bda02cf9d8e4a39ae666dca202d8446), you might be wondering about how each of the variables on the sidebar affect access. In this section, we'll try to explain how and why each variable would affect your access.
 
 ### Travel time
 
