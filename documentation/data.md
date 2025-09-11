@@ -17,11 +17,17 @@ MWCOG data forms the basis of our base population and jobs dataset, although MWC
 
 The specific layer from MWCOG is [available here.](https://rtdc-mwcog.opendata.arcgis.com/datasets/9b51789be2f14f51af089acd019dc2f9_0/explore?location=38.870038%2C-77.233464%2C8.68)
 
-The specific field used is the 2025 population (POP2025) and employment (EMP2025) forecast.
+The specific fields we collect are:
+
+* population for 2020 (POP2020) and 2025 (POP2025)
+* employment for 2020 (EMP2020) and 2025 (EMP2025)
+* households for 2020 (HH2020) and 2025 (HH2025)
+
+To calculate jobs for this analysis, we use the `EMP2025` field.
 
 ### Census data
 
-We use census data to provide additional information on demographic subgroups that are typically more dependent on transit access. These groups include:
+We use census data to provide calculate both our general population (the "typical resident") as well as demographic subgroups that are typically more dependent on transit access. These groups include:
 
 * minority residents
 * low-income residents
@@ -43,7 +49,7 @@ The specific Census variables we collect are:
 We also collect LEHD jobs data with these parameters:
 
 * **Data Type**: Workplace Area Characteristics (wac)
-* **Job Type**: All jobs (JT01) 
+* **Job Type**: All jobs (JT01)
 * **Worker Segment**: All workers (S000)
 
 This dataset is collected at the block group level but is not currently used in the analysis due to federal employment reporting limitations in the DC metro area.
@@ -58,11 +64,11 @@ Both demographic layers are then aggregated from the Transportation Analysis Zon
 
 Transit data is collected from multiple agencies to capture the complete transit network available to Northern Virginia residents.
 
-**Local NVTC region agencies:**
+**NVTC district agencies:**
 
 * Arlington Transit (ART)
 * DASH (Alexandria)
-* City-University-Everyone (CUE - Fairfax City)
+* City of Fairfax-CUE
 * Fairfax Connector
 * Loudoun County Transit (LCT)
 
