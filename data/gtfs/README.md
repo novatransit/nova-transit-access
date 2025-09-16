@@ -16,7 +16,7 @@ For Northern Virginia agencies, up-to-date links to GTFS files are available at 
 * Fairfax Connector: [https://www.fairfaxcounty.gov/connector/sites/connector/files/assets/connector_gtfs.zip](https://www.fairfaxcounty.gov/connector/sites/connector/files/assets/connector_gtfs.zip)
 * Loudoun County Transit (LCT): [https://www.loudoun.gov/loudountransitgtfs](https://www.loudoun.gov/loudountransitgtfs)
 * Washington Metropolitan Area Transportation Authority (WMATA) Bus[^1]: [https://api.wmata.com/gtfs/bus-gtfs-static.zip](https://api.wmata.com/gtfs/bus-gtfs-static.zip)
-* Washington Metropolitan Area Transportation Authority (WMATA) Rail[^1]: [https://api.wmata.com/gtfs/bus-gtfs-static.zip](https://api.wmata.com/gtfs/bus-rail-static.zip)
+* Washington Metropolitan Area Transportation Authority (WMATA) Rail[^1]: [https://api.wmata.com/gtfs/bus-gtfs-static.zip](https://api.wmata.com/gtfs/rail-gtfs-static.zip)
 * Virginia Railway Express (VRE): [http://www.vre.org/gtfs/google_transit.zip](http://www.vre.org/gtfs/google_transit.zip)
 * Potomac-Rappahannock Transportation Commission/OmniRide: [http://omniride.com/omniride/assets/File/google_transit.zip](http://omniride.com/omniride/assets/File/google_transit.zip)
 
