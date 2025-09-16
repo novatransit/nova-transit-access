@@ -4,7 +4,7 @@ date: 2025-09-09
 modified: 2025-09-16
 ---
 
-To ensure that any future reviewers receive the most up-to-date GTFS files, we have chosen not to host the *full set* of GTFS zip files for the various transit providers that make up this analysis. The GTFS Schedule files in this directory represent a subset of the full set used in the analysis (only the agencies within the NVTC district). Instead, we are providing direct links to the GTFS Schedule files for these transit operators below.
+To ensure that any future reviewers receive the most up-to-date GTFS files, we have chosen not to host the *full set* of GTFS zip files for the various transit providers that make up this analysis. Instead, we are providing direct links to the GTFS Schedule files for these transit operators below.
 
 Depending on the agency, the data linked on this website may be available through a license agreement or without a license agreement. Check individual agency websites or the feed download site for further information.  If you have any questions about these files, contact the agency directly.
 
@@ -19,6 +19,15 @@ For Northern Virginia agencies, up-to-date links to GTFS files are available at 
 * Washington Metropolitan Area Transportation Authority (WMATA) Rail[^1]: [https://api.wmata.com/gtfs/rail-gtfs-static.zip](https://api.wmata.com/gtfs/rail-gtfs-static.zip)
 * Virginia Railway Express (VRE): [http://www.vre.org/gtfs/google_transit.zip](http://www.vre.org/gtfs/google_transit.zip)
 * Potomac-Rappahannock Transportation Commission/OmniRide: [http://omniride.com/omniride/assets/File/google_transit.zip](http://omniride.com/omniride/assets/File/google_transit.zip)
+
+## Downloading all GTFS files via script
+
+If your system is able to run `bash` scripts (i.e. most macOS or Linux systems and Windows systems running WSL), then you can use the [download-gtfs.sh](/data/gtfs/download-gtfs.sh) script provided to download all relevant files in one go. Simply update the variable for `WMATA_API=` with your WMATA API Key, then run the script:
+
+```bash
+cd data/gtfs # assuming you're starting at the project root
+sh download-gtfs.sh
+```
 
 ### Downloading WMATA GTFS files
 
