@@ -1,7 +1,7 @@
 ---
 title: GTFS files
 date: 2025-09-09
-modified: 2025-09-09
+modified: 2025-09-16
 ---
 
 In order to save space and to ensure that any future reviewers receive the most up-to-date GTFS files, we have chosen not to host the individual GTFS zip files for the various transit providers that make up this analysis. Instead, we are providing direct links (where available) to the GTFS Schedule files for these transit operators below.
