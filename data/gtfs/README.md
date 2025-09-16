@@ -4,7 +4,7 @@ date: 2025-09-09
 modified: 2025-09-16
 ---
 
-In order to save space and to ensure that any future reviewers receive the most up-to-date GTFS files, we have chosen not to host the individual GTFS zip files for the various transit providers that make up this analysis. Instead, we are providing direct links (where available) to the GTFS Schedule files for these transit operators below.
+To ensure that any future reviewers receive the most up-to-date GTFS files, we have chosen not to host the *full set* of GTFS zip files for the various transit providers that make up this analysis. The GTFS Schedule files in this directory represent a subset of the full set used in the analysis (only the agencies within the NVTC district). Instead, we are providing direct links to the GTFS Schedule files for these transit operators below.
 
 Depending on the agency, the data linked on this website may be available through a license agreement or without a license agreement. Check individual agency websites or the feed download site for further information.  If you have any questions about these files, contact the agency directly.
 
@@ -50,4 +50,4 @@ $headers = @{'api_key' = 'aaabbbcccdddeeefff12345671234567'}
 Invoke-RestMethod -Uri "https://api.wmata.com/gtfs/bus-gtfs-static.zip" -Headers $headers -OutFile "bus-gtfs-static.zip"
 ```
 
-[^1]: WMATA requires an API key to download GTFS Schedule files. You may get your own key from [https://developer.wmata.com/](https://developer.wmata.com/)
+[^1]: WMATA requires an API key to download GTFS files. You may get your own key from [https://developer.wmata.com/](https://developer.wmata.com/)
