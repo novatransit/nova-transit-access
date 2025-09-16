@@ -1,7 +1,8 @@
 ## Changelog
 
-GTFS data last updated: July 2025
-MWCOG TAZ data last updated: January 2025
+GTFS data last updated: **July 2025**
+
+MWCOG TAZ data last updated: **January 2025**
 
 ## License for data provided by Metropolitan Washington Council of Governments (MWCOG)
 
